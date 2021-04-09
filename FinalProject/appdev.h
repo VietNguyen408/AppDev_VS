@@ -5,7 +5,7 @@
 #include<stdlib.h>
 
 #define N 20
-
+//Let's see how conflict solved
 typedef struct {
 	int max;
 	int min;
