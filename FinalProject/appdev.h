@@ -5,11 +5,12 @@
 #include<stdlib.h>
 
 #define N 20
-
+//modified from Github
 typedef struct {
 	int max;
 	int min;
 	char rname[N];
 }rock;
 
+//this is for function prototypes
 void send_data(rock);
